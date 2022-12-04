@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAPIwithAzFunction", "DemoAPIwithAzFunction.csproj", "{A90D4847-9EB3-4D28-ACBE-6627A6415194}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzFunctionProject", "AzFunctionProject\AzFunctionProject.csproj", "{514AD315-2CB5-4BE3-B7B7-E12B672C37B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A90D4847-9EB3-4D28-ACBE-6627A6415194}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A90D4847-9EB3-4D28-ACBE-6627A6415194}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A90D4847-9EB3-4D28-ACBE-6627A6415194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{514AD315-2CB5-4BE3-B7B7-E12B672C37B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514AD315-2CB5-4BE3-B7B7-E12B672C37B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514AD315-2CB5-4BE3-B7B7-E12B672C37B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514AD315-2CB5-4BE3-B7B7-E12B672C37B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
